@@ -1,0 +1,10 @@
+[package]
+name = "rustpng"
+version = "0.1.0"
+authors = ["Joseph Gentle <me@josephg.com>"]
+
+[dependencies]
+lodepng = "0.12.4"
+rustc-serialize = "0.3.22"
+url = "1.2.4"
+
